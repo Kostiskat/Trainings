@@ -1,0 +1,15 @@
+{
+  "name": "trainingsbot",
+  "version": "1.0.0",
+  "description": "A trainings bot.",
+  "main": "src/bot.js",
+  "scripts": {
+    "test": "node src/bot.js"
+  },
+  "author": "kostiskat",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.8.1",
+    "dotenv": "^16.0.1"
+  }
+}
